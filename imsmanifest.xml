@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5sPK61IoFH5_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Electric circuit</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">An interactive lesson about electric circuit</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Electric_circuit_ORG">
+    <organization identifier="Electric_circuit_ORG">
+      <title>Electric circuit</title>
+      <item identifier="Electric_circuit_SCO" isvisible="true" identifierref="__5sPK61IoFH5_course_id_RES">
+        <title>Electric circuit</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5sPK61IoFH5_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6msnvqtHnvU_80_DX720_DY720_CX298_CY540.png" />
+      <file href="mobile/6JSzudiXTVK_80_DX572_DY572_CX429_CY341.jpg" />
+      <file href="mobile/6OUSLLkoR64_80_DX256_DY256_CX192_CY192.png" />
+      <file href="mobile/5fz2y2Qubim_80_R9BF2FF_DX420_DY420_CX282_CY282.png" />
+      <file href="mobile/5wHPGy22adF_80_DX118_DY118_CX79_CY79.png" />
+      <file href="mobile/6j0Nb2w1aS4_80_DX160_DY160_CX64_CY118.jpg" />
+      <file href="mobile/5jtETj6YHJa_80_DX160_DY160_CX120_CY109.jpg" />
+      <file href="mobile/6ZbQX4G84xU_80_DX146_DY146_CX109_CY105.jpg" />
+      <file href="mobile/5tbyb75pWvZ_80_DX272_DY272_CX118_CY204.png" />
+      <file href="mobile/5tbyb75pWvZ_80_RG_DX272_DY272_CX118_CY204.png" />
+      <file href="mobile/5dRYjqAdN6s_80_DX194_DY194_CX145_CY145.png" />
+      <file href="mobile/6JUpHLpChtx_80_DX160_DY160_CX80_CY32.png" />
+      <file href="mobile/6SyhaO4lVDh_80_DX160_DY160_CX80_CY32.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6QZ2bo3CHmS.png" />
+      <file href="mobile/txt__default_61t6md35vVG.png" />
+      <file href="mobile/Shape5yhgMsPXpvP.png" />
+      <file href="mobile/txt__default_6jnbOIWmxxM.png" />
+      <file href="mobile/Shape6SdU2hoL9uI.png" />
+      <file href="mobile/txt__default_6CLDh2LwTmY.png" />
+      <file href="mobile/Shape6HlZluTqT0u.png" />
+      <file href="mobile/txt__default_5vrd7AXjXA0.png" />
+      <file href="mobile/Shape6F0aSTJteyj.png" />
+      <file href="mobile/txt__default_64WUcwC0fpS.png" />
+      <file href="mobile/Shape5hAA2vigz9j.png" />
+      <file href="mobile/txt__default_6PK8i17mPoS.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gKl8YrlWOu.js" />
+      <file href="html5/data/js/5k6960AkHNU.js" />
+      <file href="html5/data/js/6KQp7oKvBVe.js" />
+      <file href="html5/data/js/6qZdR4GQT6z.js" />
+      <file href="html5/data/js/6YrykdtilU7.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
